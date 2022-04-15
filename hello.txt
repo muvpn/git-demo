@@ -8,10 +8,7 @@ hello aguigu!
 hello aguigu!
 hello aguigu!
 hello aguigu!
-helloigu!
 hello aguigu!
-<<<<<<< HEAD
 hello aguigu!  master changed
-=======
 hello aguigu! hot-fix tes
->>>>>>> hot-fix
+11111111111111111111111111111111111
