@@ -8,7 +8,10 @@ hello aguigu!
 hello aguigu!
 hello aguigu!
 hello aguigu!
+helloigu!
 hello aguigu!
-hello aguigu!
+<<<<<<< HEAD
 hello aguigu!  master changed
-hello aguigu!
+=======
+hello aguigu! hot-fix tes
+>>>>>>> hot-fix
